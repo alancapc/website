@@ -1,0 +1,9 @@
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\bin\Release\netcoreapp1.1\corewebsite.deps.json
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\bin\Release\netcoreapp1.1\corewebsite.runtimeconfig.json
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\bin\Release\netcoreapp1.1\corewebsite.runtimeconfig.dev.json
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\bin\Release\netcoreapp1.1\corewebsite.dll
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\bin\Release\netcoreapp1.1\corewebsite.pdb
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\obj\Release\netcoreapp1.1\corewebsite.AssemblyInfo.cs
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\obj\Release\netcoreapp1.1\corewebsite.dll
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\obj\Release\netcoreapp1.1\corewebsite.pdb
+C:\Users\alan\documents\visual studio 2017\Projects\website\corewebsite\obj\Release\netcoreapp1.1\corewebsite.csprojResolveAssemblyReference.cache
