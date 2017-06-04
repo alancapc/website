@@ -65,3 +65,5 @@ C:\Users\alan\Documents\Visual Studio 2017\Projects\website\website\bin\Microsof
 C:\Users\alan\Documents\Visual Studio 2017\Projects\website\website\obj\Release\website.csprojResolveAssemblyReference.cache
 C:\Users\alan\Documents\Visual Studio 2017\Projects\website\website\obj\Release\website.dll
 C:\Users\alan\Documents\Visual Studio 2017\Projects\website\website\obj\Release\website.pdb
+C:\Users\alan\Documents\Visual Studio 2017\Projects\website\website\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\alan\Documents\Visual Studio 2017\Projects\website\website\bin\Microsoft.ApplicationInsights.TraceListener.xml
